@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="45">
+  <Forms>
+    <CETrainer Class="TTrainerForm" Encoding="Ascii85">=Nz}U,c+$qq^@bCbQ5ITY.L@-i)EF=Uyv2KGU_.4OWn4Y#nRF@7EF?^O}-Ao]x+J60^w,zkx%Hkr(6LV+;2M;:t/.@:FJ///M0e4lqJ1C53?^:l7Z-PF;]](y=Zo)u^3=F6G3?1k;,P*W[*gr53E.ZAt(ZP2ao,,mbVaaCIzRq:Xc_mS?(g?#n+N}:Cb6h*8ZWlv.-y[G+9n0U^:5;7mv:+(ym_xh=n*:wsZPwQcAF67Erzb,pRw.HlN}zFUl(5^mY!Exd32,LIlxCb3(oO$jgE-ozqe)qmzb7IP_l4SXX8gyM-A?+JW4.VHK7T2Gk8-XG1@nufu@3LJtHLmQTwYW[Jj!^(Tx/3$*Kv+_syf9q/)hD6{/R$^p+E(c!HjMn/tHKo_$.NYM)G3)05QrIeg*AGoGxtmzrYb,7+4)EHa-Cw!F%7=+FcQ(XL)95$9jpO__k$g0b$M2?Gwx+vCUcgWR-w0sZ7fv0n8?5RLhI?N_q/*u_[D6{t%B6OsESA4Y(z!*QE$d^{r,0ARiZPsrL+VDCCOc:)]1z%M/z),knX0S+U0mwNkjI$;i*o105RP9ga0EPJhJ,4A}JYOz]kW1^/ODHt(/9Zj.a/0?/OUuh=LwemlOlX%Y;;2i#l2=IFqh!k.?ujSFsI,Ih@.YY!:?GKkGL=MpXc6@i/OZz%U.guOw=XD7tsi64pq7Acznw_{GM@_Q/Yr3ToGNN;-5=76tQO;^(,-XZT]8b}zT8}HEzSPA[e-@}9kLL+$fvDaacKaoc%@jvTk9NFjQ8A6[T78fXRTiwns[f5#A(##,U6$S=[4VL3p$Coc*u;5h_5HsruiQ[]5T1XwHl_kPPp)aGF2cQGOe({GOg*hGSxKDTHUF9N5Srl7T27==iIY;9Zg=Q,h3#Z;VS-ZdQqIc2.U6,=q*W*o6C1tSK,Q)],K9HPQ;LD-gyZT3cVH}MlIs.RhS0Dev/X$;n,(g];?Yi+l.^ndf$Wnc3Nzm]-9qP/?KO.@uTzyzgizpzwz%0L[aSd)eA^$-%PAOeom_)Ppn4oYo*ge_K9A/Z*Y;Rw%+W2,ve8nLSF#</CETrainer>
+  </Forms>
+  <CheatEntries>
+    <CheatEntry>
+      <ID>1</ID>
+      <Description>"pointerscan result"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"UnityPlayer.dll"+01B36690</Address>
+      <Offsets>
+        <Offset>28</Offset>
+        <Offset>D0</Offset>
+        <Offset>138</Offset>
+        <Offset>1B8</Offset>
+        <Offset>8</Offset>
+        <Offset>D0</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>2</ID>
+      <Description>"pointerscan result"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"UnityPlayer.dll"+01B36638</Address>
+      <Offsets>
+        <Offset>3C</Offset>
+        <Offset>D0</Offset>
+        <Offset>138</Offset>
+        <Offset>1B8</Offset>
+        <Offset>8</Offset>
+        <Offset>1E0</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>3</ID>
+      <Description>"pointerscan result"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"UnityPlayer.dll"+01B36690</Address>
+      <Offsets>
+        <Offset>40</Offset>
+        <Offset>D0</Offset>
+        <Offset>108</Offset>
+        <Offset>1B8</Offset>
+        <Offset>8</Offset>
+        <Offset>D0</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>4</ID>
+      <Description>"pointerscan result"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"UnityPlayer.dll"+01B36638</Address>
+      <Offsets>
+        <Offset>44</Offset>
+        <Offset>D0</Offset>
+        <Offset>108</Offset>
+        <Offset>1B8</Offset>
+        <Offset>8</Offset>
+        <Offset>1E0</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>5</ID>
+      <Description>"pointerscan result"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"UnityPlayer.dll"+01B36690</Address>
+      <Offsets>
+        <Offset>48</Offset>
+        <Offset>D0</Offset>
+        <Offset>220</Offset>
+        <Offset>1B8</Offset>
+        <Offset>8</Offset>
+        <Offset>D0</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>6</ID>
+      <Description>"pointerscan result"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"UnityPlayer.dll"+01B36638</Address>
+      <Offsets>
+        <Offset>50</Offset>
+        <Offset>D0</Offset>
+        <Offset>220</Offset>
+        <Offset>1B8</Offset>
+        <Offset>8</Offset>
+        <Offset>1E0</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>7</ID>
+      <Description>"pointerscan result"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"UnityPlayer.dll"+01B36690</Address>
+      <Offsets>
+        <Offset>70</Offset>
+        <Offset>D0</Offset>
+        <Offset>220</Offset>
+        <Offset>1B8</Offset>
+        <Offset>8</Offset>
+        <Offset>D0</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>8</ID>
+      <Description>"pointerscan result"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"UnityPlayer.dll"+01B36638</Address>
+      <Offsets>
+        <Offset>9C</Offset>
+        <Offset>D0</Offset>
+        <Offset>220</Offset>
+        <Offset>1B8</Offset>
+        <Offset>8</Offset>
+        <Offset>1E0</Offset>
+      </Offsets>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+  <Comments>Info about this table:
+</Comments>
+  <LuaScript>{$lua}
+if process and readInteger(process) ~= 0 then
+  LaunchMonoDataCollector()
+end
+{$asm}
+[ENABLE]
+[DISABLE]
+
+</LuaScript>
+</CheatTable>
