@@ -17,7 +17,7 @@ Actions                   pad_Y,R
 DiscardProject            pad_Y,Backspace,BackQuote
 NextTurn                  pad_TriggerRight+pad_A,ctrl+Return,shift+Space
 Revert                    pad_TriggerRight+pad_B,Z
-SelectPreviousCity        shift+Tab,pad_TriggerLeft+pad_DPadLeft
+SelectPreviousCity        shift+Tab,pad_TriggerLeft+pad_DPadLeft,ctrl+Tab
 SelectNextCity            Tab,pad_TriggerLeft+pad_DPadRight
 OpenResearchPopup         pad_TriggerRight+pad_X,R
 Skill1                    Alpha1
